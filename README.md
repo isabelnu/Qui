@@ -1,7 +1,7 @@
 # Quiz
 quiz
 print("Hallo")
-playing= input("Möchten Sie spielen? ")
+ print playing= input("Möchten Sie spielen? ")
 if playing.lower != "ja" :
 quit()
 answere.lower= input ("Wofür steht CPU? ")
